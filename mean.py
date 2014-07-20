@@ -1,3 +1,4 @@
+# Sum imput values
 import sys
 
 sum=0
